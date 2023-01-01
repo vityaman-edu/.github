@@ -1,4 +1,4 @@
-## Hi there 👋
+# My Educational Projects
 
 ## Structure
 ```
