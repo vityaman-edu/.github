@@ -1,9 +1,33 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
-
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Structure
+```
+.
+|
+| // 3rd term
+|-- web 
+    |-- lab 
+        |-- basics (php, ts, html/css, npm)
+        |-- servlets 
+            |-- frontend (ts, html/css, npm)
+            |-- backend (jakarta EE, maven)
+        |-- taparia (https://github.com/vityaman/taparia)
+|-- programming-languages
+    |-- lab
+        |-- asm
+            |-- io-library (asm)
+            |-- dictionary (asm)
+        |-- c
+            |-- template-vector (c)
+    |-- practice
+        |-- 6
+            |-- arithmetic-expression-calculator (c, parsing)
+|-- math-logic
+    |-- expression-parser-cpp (c++, bison)
+    |-- expression-parser-java (java, antlr4)
+    |-- expression-truthfulness (c++, bison)
+|
+| // It is only the beginning...
+|
+.
+```
