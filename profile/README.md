@@ -52,3 +52,9 @@
 | [Assignment: SRS](https://github.com/vityaman-edu/semt-assignment-srs) | `Latex`. Wrote Software specification for a web service.                  |
 | [Assignment: VSC](https://github.com/vityaman-edu/semt-assigment-vcs)  | `Bash`, `Git`, `Subversion`. Created scripts emulating user activity in repo. |
 | [Taparia: Ant](https://github.com/vityaman-edu/semt-taparia-ant)       | Compiled Taparia using `Ant`. Added some build targets.                   |
+
+### Embedded Systems
+| Project                                                                                    | Description                                                                                             |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| [VIDIANIV Project](https://github.com/vityaman-edu/vidianiv-jetson-nano-people-detector)   | **CV** on **Jetson Nano** using **Jetson Inference** library with **Spring** Backend and **Web** Client |
+| [Assignments](https://github.com/vityaman-edu/embd-assignments)                            | Labs |
