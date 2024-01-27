@@ -58,3 +58,28 @@
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
 | [VIDIANIV Project](https://github.com/vityaman-edu/vidianiv-jetson-nano-people-detector)   | **CV** on **Jetson Nano** using **Jetson Inference** library with **Spring** Backend and **Web** Client |
 | [Assignments](https://github.com/vityaman-edu/embd-assignments)                            | Labs |
+
+## 5th Term
+
+### Databases
+| Project                                                         | Description                                                 |
+| --------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Assignments](https://github.com/vityaman-edu/db-labs-basic)    | `PSQL` queries and a simple datalogical model               |
+| [My Logsitics](https://github.com/vityaman-edu/db-my-logistics) | `Scala 2.13`, `ZIO`, `Scala.js 2.13`, `Laminar`, `Postgres` |
+
+### Operating Systems
+| Project                                                      | Description                                                   | 
+| ------------------------------------------------------------ | ------------------------------------------------------------- |
+| [XV6 OS](https://github.com/vityaman-edu/os-xv6-riscv)       | An educational OS from MIT with COW fork and linked lists     |
+| [Networkfs](https://github.com/vityaman-edu/os-networkfs)    | A `Linux 5.15` kernel module that provides a simple remote fs |
+| [C Coroutines](https://github.com/vityaman-edu/c-coroutines) | Simple coroutines for `C` backend by `switch` technology      |
+
+### Computer Systems Architecture
+| Project                                          | Description                                                                         |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| [Sleepy](https://github.com/vityaman-edu/sleepy) | A `LISP`-like minimal language, compiler and `RISC` processor emulator in `Python`  |
+
+### AI Systems
+| Project                                              | Description                                                                            |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Anechka](https://github.com/vityaman-edu/ai-prolog) | Simple CLi chat-bot in `Python` to help Terraria players using `Prolog` knowledge base |
