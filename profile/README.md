@@ -72,3 +72,13 @@ This organization stores all my educational projects made at the university or s
 ### AI Systems
 
 - [Anechka](https://github.com/vityaman-edu/ai-prolog) (Simple CLi chat-bot in `Python` to help Terraria players using `Prolog` knowledge base)
+
+## 6th Term
+
+### Business Logic
+
+- [Learining Management System](https://github.com/vityaman-edu/lms) (`Kolin`, `Spring Boot`, `OpenAPI`, `Docker`, `Postgres`)
+
+### Mobile Development
+
+- [Nexo Hub](https://github.com/vityaman-edu/nexo-hub) (`Kotlin`, `Ktor`, `Redis`, `Postgres`, `ClickHouse`)
