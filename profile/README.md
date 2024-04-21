@@ -2,13 +2,9 @@
 
 This organization stores all my educational projects made at the university or somewhere else.
 
-## 2nd Term
-
 ### Fundamentals of professional activity
 
 - [Count positive numbers using SIMD](https://github.com/vityaman-edu/fpa-example-simd-python-module) (`C`, `SIMD`, `Python`)
-
-## 3rd Term
 
 ### Web Programming
 
@@ -29,8 +25,6 @@ This organization stores all my educational projects made at the university or s
 - [Expression Truthfulness](https://github.com/vityaman-edu/math-logic-expression-truthfulness) (`C++`, `Bison`, `Yacc`)
 - [Deduction Theorem](https://github.com/vityaman-edu/math-logic-deduction-theorem)             (`C++`, `Bison`, `Yacc`)
 
-## 4rd Term
-
 ### Сomputational Mathematics
 
  - [Mathematica](https://github.com/vityaman-edu/math-tool/tree/dev/src/Mathematica) (Basic Structures, Function Approximation, Root Search, Interpolation, (Non)Linear Equation Systems)
@@ -50,13 +44,12 @@ This organization stores all my educational projects made at the university or s
 ### Embedded Systems
 
 - [VIDIANIV Project](https://github.com/vityaman-edu/vidianiv-jetson-nano-people-detector) (**CV** on **Jetson Nano** using **Jetson Inference** library with **Spring** Backend and **Web** Client)
-- [Assignments](https://github.com/vityaman-edu/embd-assignments) (Labs)
-
-## 5th Term
+- [Homeworks](https://github.com/vityaman-edu/embd-assignments) (Labs)
 
 ### Databases
 
-- [Assignments](https://github.com/vityaman-edu/db-labs-basic)    (`PSQL` queries and a simple datalogical model              )
+- [Homeworks: Basics](https://github.com/vityaman-edu/db-labs-basic) (`PSQL` queries and a simple datalogical model )
+- [Homeworks: Advanced](https://github.com/vityaman-edu/ddb-homework) (`Postgres` configuration)
 - [My Logsitics](https://github.com/vityaman-edu/db-my-logistics) (`Scala 2.13`, `ZIO`, `Scala.js 2.13`, `Laminar`, `Postgres`)
 
 ### Operating Systems
@@ -73,12 +66,12 @@ This organization stores all my educational projects made at the university or s
 
 - [Anechka](https://github.com/vityaman-edu/ai-prolog) (Simple CLi chat-bot in `Python` to help Terraria players using `Prolog` knowledge base)
 
-## 6th Term
-
 ### Business Logic
 
-- [Learining Management System](https://github.com/vityaman-edu/lms) (`Kolin`, `Spring Boot`, `OpenAPI`, `Docker`, `Postgres`)
+- [Learning Management System](https://github.com/vityaman-edu/lms) (`Kolin`, `Spring Boot`, `OpenAPI`, `Docker`, `Postgres`)
 
 ### Mobile Development
 
 - [Nexo Hub](https://github.com/vityaman-edu/nexo-hub) (`Kotlin`, `Ktor`, `Redis`, `Postgres`, `ClickHouse`)
+- [QuickStart Android & Ktor gradle monorepo](https://github.com/vityaman-edu/gradle-ktor-android-monorepo) (`Kotlin`, `Android`)
+- [Duck Images](https://github.com/vityaman-edu/android-duck-images) (`Kotlin`, `Android`, `Retrofit`)
