@@ -6,6 +6,10 @@ This organization stores all my educational projects made at the university or s
 
 - [Count positive numbers using SIMD](https://github.com/vityaman-edu/fpa-example-simd-python-module) (`C`, `SIMD`, `Python`)
 
+### Java Programming
+
+- [Tickets Client/Server Application](https://github.com/vityaman-edu/tidb) (`Java`)
+
 ### Web Programming
 
 - [Taparia: PHP](https://github.com/vityaman-edu/web-taparia-php)                   (`PHP`, `HTML`, `CSS`, `JS`)
