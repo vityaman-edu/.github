@@ -87,3 +87,4 @@ This organization stores all my educational projects made at the university or s
 - [FileHash](https://github.com/vityaman-edu/mcst-internship-trial) (`C++`)
 - [C stackless coroutines](https://github.com/vityaman-edu/c-coroutines) (`C`)
 - [LL1 Parser Generator](https://github.com/vityaman-edu/parser-generator) (`Rust`)
+- [Template for Algorithms Contests](https://github.com/vityaman-edu/algocont)
