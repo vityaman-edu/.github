@@ -79,3 +79,11 @@ This organization stores all my educational projects made at the university or s
 - [Nexo Hub](https://github.com/vityaman-edu/nexo-hub) (`Kotlin`, `Ktor`, `Redis`, `Postgres`, `ClickHouse`)
 - [QuickStart Android & Ktor gradle monorepo](https://github.com/vityaman-edu/gradle-ktor-android-monorepo) (`Kotlin`, `Android`)
 - [Duck Images](https://github.com/vityaman-edu/android-duck-images) (`Kotlin`, `Android`, `Retrofit`)
+
+### Other
+
+- [BST: Naive, AVL. OrderedSet](https://github.com/vityaman-edu/bst) (`C++20`, `CMake`)
+- [SimREPLe](https://github.com/vityaman-edu/simreple) (`C++`, `ANTLR4-C3`, `Replxx`)
+- [FileHash](https://github.com/vityaman-edu/mcst-internship-trial) (`C++`)
+- [C stackless coroutines](https://github.com/vityaman-edu/c-coroutines) (`C`)
+- [LL1 Parser Generator](https://github.com/vityaman-edu/parser-generator) (`Rust`)
